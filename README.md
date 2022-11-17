@@ -1,2 +1,1 @@
-# projectzer0
-Project Zer0
+project zer0 is a upcoming software
